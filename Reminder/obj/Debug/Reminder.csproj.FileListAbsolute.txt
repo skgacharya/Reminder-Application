@@ -1,0 +1,11 @@
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\IWFReminder\obj\Debug\Reminder.csprojAssemblyReference.cache
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.csprojAssemblyReference.cache
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.frmReminder.resources
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.Properties.Resources.resources
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.csproj.GenerateResource.cache
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.csproj.CoreCompileInputs.cache
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\sunil\Downloads\IWFReminder\IWFReminder\Reminder\obj\Debug\Reminder.pdb
